@@ -23,6 +23,7 @@ unless specified, [Deep Learning Specialization on Coursera](https://www.courser
    
    
 -Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
+   
    -[Week 1 -PA 1 - Gradient Checking-(https://github.com/keenborder786/Deep-Learning-Coursera/blob/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week-1/Gradient%2BChecking%2Bv1.ipynb)
    
    -[Week 1 -PA 2 -Initialization-(https://github.com/keenborder786/Deep-Learning-Coursera/blob/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week-1/Initialization.ipynb)
