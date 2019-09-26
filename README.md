@@ -34,3 +34,8 @@ unless specified, [Deep Learning Specialization on Coursera](https://www.courser
    
    -[Week 3-PA 1- Tensorflow Tutorial-(https://github.com/keenborder786/Deep-Learning-Coursera/blob/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week-3/Tensorflow%2BTutorial%2Bv3a.ipynb)]
    
+   
+ - Course 4: Convolutional Neural Networks
+
+  - [Week 1 - PA 1 - Convolutional Model: step by step](https://github.com/keenborder786/Deep-Learning-Coursera/blob/master/Convolutional%20Neural%20Networks/Week-1/Convolution%2Bmodel%2B-%2BStep%2Bby%2BStep%2B-%2Bv2.ipynb)
+   
