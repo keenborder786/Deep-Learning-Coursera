@@ -38,4 +38,6 @@ unless specified, [Deep Learning Specialization on Coursera](https://www.courser
  - Course 4: Convolutional Neural Networks
 
       - [Week 1 - PA 1 - Convolutional Model: step by step]-(https://github.com/keenborder786/Deep-Learning-Coursera/blob/master/Convolutional%20Neural%20Networks/Week-1/Convolution%2Bmodel%2B-%2BStep%2Bby%2BStep%2B-%2Bv2.ipynb)
+      
+      -[Week 1 -PA-2-Convolutional Neural Networks: Application]-(https://github.com/keenborder786/Deep-Learning-Coursera/blob/master/Convolutional%20Neural%20Networks/Week-1/Convolution%2Bmodel%2B-%2BApplication%2B-%2Bv1.ipynb)
    
