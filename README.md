@@ -43,7 +43,7 @@ unless specified, [Deep Learning Specialization on Coursera](https://www.courser
       
       -[Week 1 -PA-2-Convolutional Neural Networks: Application]-(https://github.com/keenborder786/Deep-Learning-Coursera/blob/master/Convolutional%20Neural%20Networks/Week-1/Convolution%2Bmodel%2B-%2BApplication%2B-%2Bv1.ipynb)
       
-      - [Week 2 - PA 1 - Keras - Tutorial - Happy House](https://github.com/keenborder786/Deep-Learning-Coursera/blob/master/Convolutional%20Neural%20Networks/Week-2/Keras%2B-%2BTutorial%2B-%2BHappy%2BHouse%2Bv2.ipynb)
+      - [Week 2 - PA 1 - Keras - Tutorial - Happy House]-(https://github.com/keenborder786/Deep-Learning-Coursera/blob/master/Convolutional%20Neural%20Networks/Week-2/Keras%2B-%2BTutorial%2B-%2BHappy%2BHouse%2Bv2.ipynb)
        
-  - [Week 2 - PA 2 - Residual Networks](https://github.com/keenborder786/Deep-Learning-Coursera/blob/master/Convolutional%20Neural%20Networks/Week-2/Residual%2BNetworks%2B-%2Bv2.ipynb)
+      - [Week 2 - PA 2 - Residual Networks]-(https://github.com/keenborder786/Deep-Learning-Coursera/blob/master/Convolutional%20Neural%20Networks/Week-2/Residual%2BNetworks%2B-%2Bv2.ipynb)
    
