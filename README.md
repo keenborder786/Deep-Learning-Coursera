@@ -28,6 +28,8 @@ unless specified, [Deep Learning Specialization on Coursera](https://www.courser
    
    -[Week 1 -PA 2 -Initialization-(https://github.com/keenborder786/Deep-Learning-Coursera/blob/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week-1/Initialization.ipynb)
    
+   -[Week 2- PA 1 -
+   
    -[Week 1 -PA 3- Regularization-(https://github.com/keenborder786/Deep-Learning-Coursera/blob/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week-1/Regularization%2B-%2Bv2.ipynb)]
    
    -[Week 2-PA 1 - Optimization methods-(https://github.com/keenborder786/Deep-Learning-Coursera/blob/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week-2/Optimization%2Bmethods.ipynb)]
@@ -40,4 +42,8 @@ unless specified, [Deep Learning Specialization on Coursera](https://www.courser
       - [Week 1 - PA 1 - Convolutional Model: step by step]-(https://github.com/keenborder786/Deep-Learning-Coursera/blob/master/Convolutional%20Neural%20Networks/Week-1/Convolution%2Bmodel%2B-%2BStep%2Bby%2BStep%2B-%2Bv2.ipynb)
       
       -[Week 1 -PA-2-Convolutional Neural Networks: Application]-(https://github.com/keenborder786/Deep-Learning-Coursera/blob/master/Convolutional%20Neural%20Networks/Week-1/Convolution%2Bmodel%2B-%2BApplication%2B-%2Bv1.ipynb)
+      
+      - [Week 2 - PA 1 - Keras - Tutorial - Happy House](https://github.com/keenborder786/Deep-Learning-Coursera/blob/master/Convolutional%20Neural%20Networks/Week-2/Keras%2B-%2BTutorial%2B-%2BHappy%2BHouse%2Bv2.ipynb)
+       
+  - [Week 2 - PA 2 - Residual Networks](https://github.com/keenborder786/Deep-Learning-Coursera/blob/master/Convolutional%20Neural%20Networks/Week-2/Residual%2BNetworks%2B-%2Bv2.ipynb)
    
