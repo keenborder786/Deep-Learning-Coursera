@@ -28,7 +28,7 @@ unless specified, [Deep Learning Specialization on Coursera](https://www.courser
    
    -[Week 1 -PA 2 -Initialization-(https://github.com/keenborder786/Deep-Learning-Coursera/blob/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week-1/Initialization.ipynb)
    
-   -[Week 2- PA 1 -
+   -[Week 2- PA 1 -Optimization+methods-(https://github.com/keenborder786/Deep-Learning-Coursera/blob/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week-2/Optimization%2Bmethods.ipynb)
    
    -[Week 1 -PA 3- Regularization-(https://github.com/keenborder786/Deep-Learning-Coursera/blob/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week-1/Regularization%2B-%2Bv2.ipynb)]
    
@@ -46,4 +46,10 @@ unless specified, [Deep Learning Specialization on Coursera](https://www.courser
       - [Week 2 - PA 1 - Keras - Tutorial - Happy House]-(https://github.com/keenborder786/Deep-Learning-Coursera/blob/master/Convolutional%20Neural%20Networks/Week-2/Keras%2B-%2BTutorial%2B-%2BHappy%2BHouse%2Bv2.ipynb)
        
       - [Week 2 - PA 2 - Residual Networks]-(https://github.com/keenborder786/Deep-Learning-Coursera/blob/master/Convolutional%20Neural%20Networks/Week-2/Residual%2BNetworks%2B-%2Bv2.ipynb)
+      
+      -[Week 3 -PA 1- Autonomous+driving+application+-+Car+detection+-+v3-(https://github.com/keenborder786/Deep-Learning-Coursera/blob/master/Convolutional%20Neural%20Networks/Week-3/Autonomous%2Bdriving%2Bapplication%2B-%2BCar%2Bdetection%2B-%2Bv3.ipynb)
+      
+      -[Week 4 -PA 1 -Art+Generation+with+Neural+Style+Transfer+-+v2-(https://github.com/keenborder786/Deep-Learning-Coursera/blob/master/Convolutional%20Neural%20Networks/Week-4/Art%2BGeneration%2Bwith%2BNeural%2BStyle%2BTransfer%2B-%2Bv2.ipynb)
+      
+      -[Week4-PA 2-Face+Recognition+for+the+Happy+House+-+v3-(https://github.com/keenborder786/Deep-Learning-Coursera/blob/master/Convolutional%20Neural%20Networks/Week-4/Face%2BRecognition%2Bfor%2Bthe%2BHappy%2BHouse%2B-%2Bv3.ipynb)
    
