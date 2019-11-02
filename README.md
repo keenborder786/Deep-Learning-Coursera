@@ -58,5 +58,16 @@ unless specified, [Deep Learning Specialization on Coursera](https://www.courser
       -[Week 1-PA 2 -Dinosaurus+Island+--+Character+level+language+model+final+-+v3]-(https://github.com/keenborder786/Deep-Learning-Coursera/blob/master/Sequence%20Models/Week%201/Dinosaurus%2BIsland%2B--%2BCharacter%2Blevel%2Blanguage%2Bmodel%2Bfinal%2B-%2Bv3.ipynb)
          
       -[Week 1 -PA 3 -Improvise+a+Jazz+Solo+with+an+LSTM+Network+-+v3]-(https://github.com/keenborder786/Deep-Learning-Coursera/blob/master/Sequence%20Models/Week%201/Improvise%2Ba%2BJazz%2BSolo%2Bwith%2Ban%2BLSTM%2BNetwork%2B-%2Bv3.ipynb)
+      
+      -[Week 2 -PA 1 Operations+on+word+vectors+-+v2]-(https://github.com/keenborder786/Deep-Learning-Coursera/blob/master/Sequence%20Models/Week%202/Operations%2Bon%2Bword%2Bvectors%2B-%2Bv2.ipynb)
+      
+      -[Week 2 -PA 2 -Emojify+-+v2]-(https://github.com/keenborder786/Deep-Learning-Coursera/blob/master/Sequence%20Models/Week%202/Emojify%2B-%2Bv2.ipynb)
+      
+      -[Week 3 -PA 1 -Neural machine translation with attention - v2]-(https://github.com/keenborder786/Deep-Learning-Coursera/blob/master/Sequence%20Models/Week%203/Neural%20machine%20translation%20with%20attention%20-%20v2.ipynb)
+      
+      -[Week 3 -PA 2 -Trigger word detection - v1]-(https://github.com/keenborder786/Deep-Learning-Coursera/blob/master/Sequence%20Models/Week%203/Trigger%20word%20detection%20-%20v1.ipynb)
+      
+      
+       Done Yeapeeeee!!!
          
    
